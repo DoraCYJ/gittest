@@ -8,3 +8,4 @@ test for git
 
 
 # mixed回滚测试
+- mixed继续测试
