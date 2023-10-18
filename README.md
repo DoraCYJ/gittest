@@ -8,4 +8,6 @@ test for git
 
 
 # mixed回滚测试
-- mixed继续测试
+- mixed继续测试 
+
+- 本人在mixed分支上继续开发，测试协同开发状态。
